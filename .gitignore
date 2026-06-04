@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+build
+.env*.local
+
+# Vercel
+.vercel
+
+# IDEs
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
